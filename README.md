@@ -39,6 +39,10 @@ npm run dev
 
 Open http://localhost:5173
 
+## Screenshot
+
+![Todo App Screenshot](images/screenshot.png)
+
 ## API
 | Method | URL | What it does |
 |--------|-----|--------------|
